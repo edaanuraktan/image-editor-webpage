@@ -3,7 +3,7 @@
 - node_modules kurulmalıdır.
 <br>
 
-##Görev:
+## Görev:
 - Bir web formu oluşturun.
 - Buradan kullanıcıdan bir resim yüklemesini isteyiniz.
 - Kullanıcının yüklediği resmi kullanıcının belirlediği ayarlara göre
@@ -48,7 +48,7 @@ Son olarak işlenen resmin kullanıcıya gösterilmesi
 - node_modules must be installed.  
 <br>
 
-##Task:  
+## Task:  
 - Create a web form.  
 - Ask the user to upload an image through it.  
 - Based on the settings specified by the user,  
